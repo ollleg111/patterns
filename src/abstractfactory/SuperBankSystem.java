@@ -15,11 +15,5 @@ public class SuperBankSystem {
         developer.writeCode();
         tester.testCode();
         projectManager.manageProject();
-
-        // комментарий для переключения на другую верку в гите
-        /*
-        test
-
-         */
     }
 }

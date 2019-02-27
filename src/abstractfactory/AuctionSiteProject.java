@@ -13,11 +13,5 @@ public class AuctionSiteProject {
 
         System.out.println("Get started for Web Site");
 
-        // комментарий для переключения на другую верку в гите
-        /*
-        test
-
-         */
-        // комментарий в гите -3-
     }
 }
