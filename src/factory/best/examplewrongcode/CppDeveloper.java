@@ -1,4 +1,4 @@
-package factory.second.examplewrongcode;
+package factory.best.examplewrongcode;
 
 public class CppDeveloper {
 

@@ -1,6 +1,4 @@
-package factory.second.examplewrongcode;
-
-import factory.second.examplewrongcode.CppDeveloper;
+package factory.best.examplewrongcode;
 
 public class Program {
     public static void main(String[] args) {

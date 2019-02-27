@@ -1,4 +1,4 @@
-package factory.second.bestcode;
+package factory.best.bestcode;
 
 public interface Developer {
 
