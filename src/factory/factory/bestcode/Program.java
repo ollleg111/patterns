@@ -1,4 +1,4 @@
-package factory.best.bestcode;
+package factory.factory.bestcode;
 
 public class Program {
 
@@ -28,7 +28,7 @@ public class Program {
 
         if (speciality.equalsIgnoreCase("java")) {
             return new JavaDeveloperFactory();
-        } else if (speciality.equalsIgnoreCase("c==")) {
+        } else if (speciality.equalsIgnoreCase("c++")) {
             return new CppDeveloperFactory();
         } else {
             throw new RuntimeException(speciality + " is unknown speciality");

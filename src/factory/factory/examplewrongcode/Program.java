@@ -1,4 +1,4 @@
-package factory.best.examplewrongcode;
+package factory.factory.examplewrongcode;
 
 public class Program {
     public static void main(String[] args) {
