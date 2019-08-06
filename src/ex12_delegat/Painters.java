@@ -1,4 +1,4 @@
-package delegat;
+package ex12_delegat;
 
 interface Drawing {
     void draw();

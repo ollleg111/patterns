@@ -1,4 +1,4 @@
-package facade;
+package ex9_facade;
 
 public class Main {
 
