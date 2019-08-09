@@ -1,6 +1,6 @@
-package ex2_abstractfactory.banking;
+package ex2_abstract_factory.banking;
 
-import ex2_abstractfactory.interfaces.Developer;
+import ex2_abstract_factory.interfaces.Developer;
 
 public class JavaDeveloper implements Developer {
     @Override

@@ -1,6 +1,6 @@
-package ex2_abstractfactory.website;
+package ex2_abstract_factory.website;
 
-import ex2_abstractfactory.interfaces.ProjectManager;
+import ex2_abstract_factory.interfaces.ProjectManager;
 
 public class WebSitePM implements ProjectManager {
     @Override

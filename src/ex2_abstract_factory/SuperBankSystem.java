@@ -1,10 +1,10 @@
-package ex2_abstractfactory;
+package ex2_abstract_factory;
 
-import ex2_abstractfactory.banking.BankingTeamFactory;
-import ex2_abstractfactory.interfaces.Developer;
-import ex2_abstractfactory.interfaces.ProjectManager;
-import ex2_abstractfactory.interfaces.ProjectTeamFactory;
-import ex2_abstractfactory.interfaces.Tester;
+import ex2_abstract_factory.banking.BankingTeamFactory;
+import ex2_abstract_factory.interfaces.Developer;
+import ex2_abstract_factory.interfaces.ProjectManager;
+import ex2_abstract_factory.interfaces.ProjectTeamFactory;
+import ex2_abstract_factory.interfaces.Tester;
 
 public class SuperBankSystem {
 

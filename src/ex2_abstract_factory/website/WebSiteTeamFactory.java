@@ -1,9 +1,9 @@
-package ex2_abstractfactory.website;
+package ex2_abstract_factory.website;
 
-import ex2_abstractfactory.interfaces.Developer;
-import ex2_abstractfactory.interfaces.ProjectManager;
-import ex2_abstractfactory.interfaces.ProjectTeamFactory;
-import ex2_abstractfactory.interfaces.Tester;
+import ex2_abstract_factory.interfaces.Developer;
+import ex2_abstract_factory.interfaces.ProjectManager;
+import ex2_abstract_factory.interfaces.ProjectTeamFactory;
+import ex2_abstract_factory.interfaces.Tester;
 
 public class WebSiteTeamFactory implements ProjectTeamFactory {
     @Override

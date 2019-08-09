@@ -1,6 +1,6 @@
-package ex2_abstractfactory.website;
+package ex2_abstract_factory.website;
 
-import ex2_abstractfactory.interfaces.Developer;
+import ex2_abstract_factory.interfaces.Developer;
 
 public class PHPDeveloper implements Developer {
     @Override

@@ -1,6 +1,6 @@
-package ex2_abstractfactory.banking;
+package ex2_abstract_factory.banking;
 
-import ex2_abstractfactory.interfaces.ProjectManager;
+import ex2_abstract_factory.interfaces.ProjectManager;
 
 public class BankingPM implements ProjectManager {
     @Override
